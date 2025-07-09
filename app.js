@@ -13,7 +13,7 @@
 var fs = require('fs');
 var url = require('url');
 var http = require('http');
-var ip = '127.0.0.1'; // ip-address of the host
+var ip = '0.0.0.0'; // ip-address of the host
 var port = 9091;      // port number to listen
 profile_data = '';
 
